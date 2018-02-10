@@ -1,0 +1,27 @@
+{
+  "name": "socialmedia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camus",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/compiler-cli": "^5.2.4",
+    "@angular/core": "^5.2.4",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "heroku": "^0.2.0",
+    "jsonwebtoken": "^8.1.1",
+    "mongoose": "^5.0.1",
+    "nodemon": "^1.14.11",
+    "typescript": "^2.7.1"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.6.8"
+  }
+}
